@@ -1,0 +1,15 @@
+header{
+    
+}
+.photos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.photos img{
+    max-width: 500px;
+    height: 200px;
+    margin: 5px;
+   
+}
